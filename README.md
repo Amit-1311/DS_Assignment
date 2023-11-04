@@ -11,7 +11,6 @@ Welcome to the Data Structure Course Tasks and Assignments! This README file pro
 3. [Instructions](#instructions)
 4. [Submission](#submission)
 5. [Feedback](#feedback)
-6. [Resources](#resources)
 
 ## Course Tasks and Assignments Description
 
@@ -62,7 +61,3 @@ Ensure that you meet the submission deadlines and follow the guidelines for each
 After submitting your tasks and assignments, you will receive feedback from your instructor or course facilitator. This feedback will include an evaluation of your work, code quality, correctness, and suggestions for improvement.
 
 Use this feedback as a valuable resource for learning and growth. Address any issues or recommendations provided by the instructor to improve your future tasks and assignments.
-
-## Resources
-
-Throughout the course, you may receive reference materials, coding examples, and additional resources to assist you in completing the tasks and assignments. Take advantage of these resources to enhance your understanding of data structures and algorithms.
